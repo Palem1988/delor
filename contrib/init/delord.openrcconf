@@ -1,0 +1,26 @@
+# /etc/conf.d/delord: config file for /etc/init.d/delord
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/delor/delor.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/delord"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/delord.pid"
+
+# Where to write delord data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/delord"
+
+# User and group to own delord process
+#BITCOIND_USER="delor"
+#BITCOIND_GROUP="delor"
+
+# Path to delord executable
+#BITCOIND_BIN="/usr/bin/delord"
+
+# Nice value to run delord under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

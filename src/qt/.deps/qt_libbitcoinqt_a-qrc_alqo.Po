@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_delor.o: qt/qrc_delor.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

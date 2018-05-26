@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DLR
+Comment=DLR P2P Cryptocurrency
+Exec=delor-qt %u
+Terminal=false
+Type=Application
+Icon=delor128
+MimeType=x-scheme-handler/delor;
+Categories=Office;Finance;
+Name[en_US]=delor-qt.desktop
