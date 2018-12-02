@@ -2,6 +2,8 @@ Coin name / ticker : Delor / DLR
 
 Logo : https://imgur.com/a/oNtGApK
 
+Website: delor.online
+
 Github : https://github.com/danrachita/delor
 
 Old ANN : https://bitcointalk.org/index.php?topic=4309314.0
