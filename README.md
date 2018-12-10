@@ -10,6 +10,8 @@ Github : https://github.com/danrachita/delor
 
 Old ANN : https://bitcointalk.org/index.php?topic=4309314.0
 
+New ANN : https://bitcointalk.org/index.php?topic=5062772.msg47553346#msg47553346
+
 Exchange : https://graviex.net/markets/dlrbtc 
 
 Masternode Online : https://masternodes.online/currencies/DLR/   
