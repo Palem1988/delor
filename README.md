@@ -4,6 +4,8 @@ Logo : https://imgur.com/a/oNtGApK
 
 Website: http://delor.online
 
+Blockexplorer: http://104.248.134.218:3001/
+
 Github : https://github.com/danrachita/delor
 
 Old ANN : https://bitcointalk.org/index.php?topic=4309314.0
