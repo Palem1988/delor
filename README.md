@@ -20,5 +20,6 @@ Masternode Online : https://masternodes.online/currencies/DLR/   
 
 Coinlib : https://coinlib.io/coin/DLR3/Delor              
   
+
 Discord: https://discord.gg/pfpHW36
 
