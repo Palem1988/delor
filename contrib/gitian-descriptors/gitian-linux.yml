@@ -1,5 +1,5 @@
 ---
-name: "delor-linux-2.3"
+name: "delor-linux-2.0"
 enable_cache: true
 suites:
 - "trusty"
