@@ -137,8 +137,21 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x4c9ad4830fb9c74746114602aeb3317717b8da07e2e6816781fbe5bf7671fcf1"));
         
 
-        vSeeds.push_back(CDNSSeedData("seed1.delor.ltd", "seed1.delor.ltd"));
-        vSeeds.push_back(CDNSSeedData("seed2.delor.ltd", "seed2.delor.ltd"));
+	vSeeds.push_back(CDNSSeedData("94.177.245.36", "94.177.245.36"));
+    vSeeds.push_back(CDNSSeedData("86.105.53.115", "86.105.53.115"));
+	vSeeds.push_back(CDNSSeedData("94.177.225.195", "94.177.225.195"));
+	vSeeds.push_back(CDNSSeedData("89.40.118.48", "89.40.118.48"));
+	vSeeds.push_back(CDNSSeedData("89.40.119.159", "89.40.119.159"));
+	vSeeds.push_back(CDNSSeedData("89.36.219.109", "89.36.219.109"));
+	vSeeds.push_back(CDNSSeedData("86.105.48.150", "86.105.48.150"));
+	vSeeds.push_back(CDNSSeedData("86.105.49.119", "86.105.49.119"));
+	vSeeds.push_back(CDNSSeedData("86.105.50.160", "86.105.50.160"));
+	vSeeds.push_back(CDNSSeedData("89.40.124.239", "89.40.124.239"));
+	vSeeds.push_back(CDNSSeedData("89.40.125.9", "89.40.125.9"));
+	vSeeds.push_back(CDNSSeedData("86.105.52.194", "86.105.52.194"));
+	vSeeds.push_back(CDNSSeedData("78.97.54.58", "78.97.54.58"));
+	vSeeds.push_back(CDNSSeedData("45.32.210.221", "45.32.210.221"));
+	vSeeds.push_back(CDNSSeedData("104.248.244.214", "104.248.244.214"));
         //vFixedSeeds.clear();
         //vSeeds.clear();
 
