@@ -4,7 +4,7 @@ Logo : https://imgur.com/a/oNtGApK
 
 Website: http://delor.online
 
-Blockexplorer: http://162.244.80.98:3001/
+Blockexplorer: https://dlr.ccore.online/
 
 Github : https://github.com/danrachita/delor
 
