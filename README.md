@@ -14,12 +14,9 @@ New ANN : https://bitcointalk.org/index.php?topic=5062772.msg47553346#msg4755334
 
 Exchange : https://graviex.net/markets/dlrbtc 
 
-Exchange: https://cratex.io/index.php?pair=DLR/BTC
-
-Masternode Online : https://masternodes.online/currencies/DLR/   
+Exchange: https://cratex.io/index.php?pair=DLR/BTC  
 
 Coinlib : https://coinlib.io/coin/DLR3/Delor              
   
-
 Discord: https://discord.gg/pfpHW36
 
