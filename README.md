@@ -16,5 +16,6 @@ Exchange: https://cratex.io/index.php?pair=DLR/BTC  
 
 Coinlib : https://coinlib.io/coin/DLR3/Delor              
   
+
 Discord: https://discord.gg/pfpHW36
 
